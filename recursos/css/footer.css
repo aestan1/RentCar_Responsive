@@ -1,0 +1,24 @@
+.copy{
+	font-size: 20px;
+}
+
+footer .contenedor{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.sociales{
+	width: 100%;
+	text-align: center;
+
+}
+
+.sociales span{
+	font-weight: bold;
+}
+
+.sociales a{
+	color: #333;	
+	font-size: 3em;
+}

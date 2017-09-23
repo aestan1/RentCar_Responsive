@@ -1,0 +1,33 @@
+.info{
+	text-align: center;
+	background: #333;
+	text-align: center;
+	padding: 20px;
+	color:#fff;
+
+}
+
+.info h2{
+	font-size: 2em;
+}
+
+.info .contenedor{
+	display: flex;
+	flex-wrap: wrap ;
+	justify-content: center;
+
+}
+
+.lineas{
+	margin:20px;
+}
+
+.lineas img{
+	
+	border: 5px solid #fff;
+	border-radius: 50%;
+	width: 180px;
+	height: 180px;
+
+
+}
